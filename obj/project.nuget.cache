@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sr0+yD8k+iVxtFQcCkOCoFkjrJmkr3Q4xSfz6KKLSeJm8tZARyovRQo+np5mH2j+yS+IUxmJ8bfTzbUURtT5Dg==",
+  "success": true,
+  "projectFilePath": "/Users/nguyenbach/Documents/Codelearn/Codelearn/Codelearn.csproj",
+  "expectedPackageFiles": [
+    "/Users/nguyenbach/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/nguyenbach/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+/Users/nguyenbach/Documents/Codelearn/Codelearn/bin/Debug/netstandard2.1/Codelearn.deps.json
+/Users/nguyenbach/Documents/Codelearn/Codelearn/bin/Debug/netstandard2.1/Codelearn.dll
+/Users/nguyenbach/Documents/Codelearn/Codelearn/bin/Debug/netstandard2.1/Codelearn.pdb
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.csproj.AssemblyReference.cache
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.AssemblyInfoInputs.cache
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.AssemblyInfo.cs
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.csproj.CoreCompileInputs.cache
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.dll
+/Users/nguyenbach/Documents/Codelearn/Codelearn/obj/Debug/netstandard2.1/Codelearn.pdb
