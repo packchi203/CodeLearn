@@ -1,11 +1,14 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap03
+	public class Lap24
 	{
-		public Lap03()
-		{
-		}
-	}
+        static void Main(string[] args)
+        {
+            int length = int.Parse(Console.ReadLine());
+            int width = int.Parse(Console.ReadLine());
+            Console.WriteLine("Area = " + length * width);
+        }
+    }
 }
 

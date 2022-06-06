@@ -2,11 +2,15 @@
 
 namespace Codelearn
 {
-    public class Class1
+    public class lap41
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= n; i++)
+            {
+                Console.Write(i + " ");
+            }
         }
     }
 }

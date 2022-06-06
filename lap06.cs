@@ -1,10 +1,12 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap03
+	public class Lap06
 	{
-		public Lap03()
+		static void Main(string[] args)
 		{
+			// Display Hello World on the screen
+			Console.WriteLine("Hello, World!");
 		}
 	}
 }

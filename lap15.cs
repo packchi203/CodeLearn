@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap02
+	public class Lap15
 	{
-		public Lap02()
+		static void Main(string[] args)
 		{
+			Console.WriteLine("Area = " + 7.5 * 3.8);
 		}
 	}
 }

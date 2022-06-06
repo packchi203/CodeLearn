@@ -3,9 +3,12 @@ namespace Codelearn
 {
 	public class Lap02
 	{
-		public Lap02()
-		{
-		}
-	}
-}
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to Codelearn.io!");
+
+        }
+
+        }
+    }
 

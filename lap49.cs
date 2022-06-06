@@ -1,11 +1,19 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap03
+	public class Lap49
 	{
-		public Lap03()
-		{
-		}
-	}
+        static void Main(string[] args)
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write(i * 5 + j + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
 }
 

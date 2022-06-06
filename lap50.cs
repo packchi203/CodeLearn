@@ -1,11 +1,19 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap03
+	public class Lap50
 	{
-		public Lap03()
-		{
-		}
-	}
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            for (int i = n; i <= 100; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.Write(i + " ");
+                }
+            }
+        }
+    }
 }
 

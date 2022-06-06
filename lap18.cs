@@ -2,11 +2,13 @@
 
 namespace Codelearn
 {
-    public class Class1
+    public class lap18
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int a = 384847522;
+            int b = 988347273;
+            Console.WriteLine((long)a * b);
         }
     }
 }

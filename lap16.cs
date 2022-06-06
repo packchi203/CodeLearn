@@ -1,10 +1,12 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap02
+	public class Lap16
 	{
-		public Lap02()
+		static void Main(string[] args)
 		{
+			char c = 'x';
+			Console.WriteLine(c);
 		}
 	}
 }

@@ -1,11 +1,15 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap03
+	public class Lap08
 	{
-		public Lap03()
-		{
-		}
-	}
+        static void Main(string[] args)
+        {
+            Console.WriteLine("2468 + 1234 = " + (2468 + 1234));
+            Console.WriteLine("2468 - 1234 = " + (2468 - 1234));
+            Console.WriteLine("2468 * 1234 = " + (2468 * 1234));
+            Console.WriteLine("2468 / 1234 = " + (2468 / 1234));
+        }
+    }
 }
 

@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Codelearn
 {
-	public class Lap03
+	public class Lap07
 	{
-		public Lap03()
+		static void Main(string[] args)
 		{
+			Console.WriteLine("125 + 206 = " + (125 + 206));
 		}
 	}
 }
